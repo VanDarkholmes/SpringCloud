@@ -13,6 +13,8 @@
         <module name="productdataservice" />
         <module name="productviewservicefeign" />
         <module name="productviewserviceribbon" />
+        <module name="turbine" />
+        <module name="zuul" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
